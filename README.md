@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @nikkhilpareek, just call me Nikhil, That's Totally Fine.
+- 👀 I’m interested in Coding, Video Editing, Graphic Designing etc.
+- 🌱 I’m currently Pursuing BTech in CSE.
+- 📫 Connect with me on LinkedIn - @nikkhil-pareek
