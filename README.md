@@ -1,13 +1,54 @@
-<h1>Hi 👋, I'm Nikhil Pareek</h1>
-A passionate student from India, currently pursuing BTech in CS</h3>
+<h1 align="center">Nikhil Pareek</h1>
+<h4 align="center"><i>"A CSE Student who is learning to make app."</i></h4>
 
-### 🔗 Links -
-- [LinkedIn](https://linkedin.com/in/nikkhil-pareek)    
-- [Instagram](https://instagram.com/nikkhil.pareek)   
-- [Leetcode](https://leetcode.com/nikkhil-pareek/)  
-- [Youtube](https://youtube.com/@nikkhil.pareek) 
+<div style="display: flex; justify-content: center;">
+    <p align="center">
+    <a href="https://www.linkedin.com/in/nikkhil-pareek/">
+        <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge">
+    </a>
+    </p>
+</div>
 
-![CodeWars Profile](https://www.codewars.com/users/nikkhil.pareek/badges/large)
+<h1>👨‍💻 About Me</h1>
+I am an engineering student currently learning mobile app development. I am pursuing my undergraduate computer science degree from the J.K. Lakshmipat University, Jaipur.
+
+</br>I know a bit or more about the following:
+- ✅ Mobile App Developement: Flutter
+- ✅ Programming Languages: C++, Dart, Kotlin
+- ✅ Version Control: Git, Github
+- ✅ Languages: English, Hindi, Punjabi
+
+<h1>👨‍💼 Experience</h1>
+
+<h3>Aunwesha Knowledge Technologies Pvt. Ltd., Kolkata (Intern)</h3>
+<h4 align="right">May 2024 - August 2024</h3>
+
+- **Development:** Developed a Java-based chart generation webpage with Vega-Lite integration.
+- **Data Visualization:** Analyzed datasets and created dashboards using Tableau
+- **Dashboard Development:** Built dashboards for multiple Kaggle datasets, showcasing insights.
+
+<h3>J.K. Lakshmipat University, Jaipur (Teaching Assistant)</h3>
+<h4 align="right">May 2024 - August 2024</h3>
+
+- Assisted Professor in Teaching Python.
+- Organised Classes for Python Developement and Data Analysis.
 
 
+<h1>🎓 Academics</h1>
 
+| Institution | Degree | Year | CGPA/Percentage |
+|-------------|--------|------|-----------------|
+| J.K. Lakshmipat University | B.Tech, Computer Science and Engineering | 2022–2026 | 8.2 CGPA |
+| R.V.N. Sr. Secondary School | Class 12th | -2021 | 97.8% |
+
+<h1>🚀 Personal Projects</h1>
+
+- [ToDo App using Flutter](https://github.com/nikkhilpareek/Flutter-Todo-APP) - A simple Mobile App to add your daily tasks.
+- [Decimal to Binary Converter using Flutter](https://github.com/nikkhilpareek/Decimal-to-Binary-Converter) - A simple app that converts decimal numbers into binary numbers.
+- [Dice Roller using Flutter](https://github.com/nikkhilpareek/Flutter-Dice-Roller) - A simple Dice Roller app
+
+![Nikhil's GitHub stats](https://github-readme-stats.vercel.app/api?username=nikkhilpareek)
+![Nikhil's LeetCode Stats](https://leetcard.jacoblin.cool/Nikkhil-Pareek?theme=dark&font=Archivo)
+
+
+Thanks :)
