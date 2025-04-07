@@ -42,7 +42,7 @@ I am an engineering student currently learning mobile app development. I am purs
 | R.V.N. Sr. Secondary School | Class 12th | -2021 | 97.8% |
 
 <h1>🚀 Personal Projects</h1>
-
+- [Weather Forecast App using Flutter](https://github.com/nikkhilpareek/Weather-App-in-Fluter) - A minimal Weather App with forecast of the day, pressure, wind speed and humidity.
 - [ToDo App using Flutter](https://github.com/nikkhilpareek/Flutter-Todo-APP) - A simple Mobile App to add your daily tasks.
 - [Decimal to Binary Converter using Flutter](https://github.com/nikkhilpareek/Decimal-to-Binary-Converter) - A simple app that converts decimal numbers into binary numbers.
 - [Dice Roller using Flutter](https://github.com/nikkhilpareek/Flutter-Dice-Roller) - A simple Dice Roller app
