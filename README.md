@@ -43,10 +43,13 @@ I am an engineering student currently learning mobile app development. I am purs
 
 <h1>🚀 Personal Projects</h1>
 
-[Weather Forecast App using Flutter](https://github.com/nikkhilpareek/Weather-App-in-Fluter) - A minimal Weather App with forecast of the day, pressure, wind speed and humidity. <br>
-[ToDo App using Flutter](https://github.com/nikkhilpareek/Flutter-Todo-APP) - A simple Mobile App to add your daily tasks. <br>
-[Decimal to Binary Converter using Flutter](https://github.com/nikkhilpareek/Decimal-to-Binary-Converter) - A simple app that converts decimal numbers into binary numbers. <br>
-[Dice Roller using Flutter](https://github.com/nikkhilpareek/Flutter-Dice-Roller) - A simple Dice Roller app <br>
+| Project Name                         | GitHub Repo                                                                 | Live Demo | Description                                                                                  |
+|-------------------------------------|----------------------------------------------------------------------------------|-----------|----------------------------------------------------------------------------------------------|
+| Weather Forecast App using Flutter  | [GitHub](https://github.com/nikkhilpareek/Weather-App-in-Fluter)               | [Weather App]          | A minimal Weather App with forecast of the day, pressure, wind speed and humidity.          |
+| ToDo App using Flutter              | [GitHub](https://github.com/nikkhilpareek/Flutter-Todo-APP)                    | [To-Do App]          | A simple Mobile App to add your daily tasks.                                                 |
+| Decimal to Binary Converter         | [GitHub](https://github.com/nikkhilpareek/Decimal-to-Binary-Converter)         | [Decimal to Binary App]          | A simple app that converts decimal numbers into binary numbers.                             |
+| Dice Roller using Flutter           | [GitHub](https://github.com/nikkhilpareek/Flutter-Dice-Roller)                 | [Dice Roller](https://nikkhilpareek.github.io/Flutter-Dice-Roller/)         | A simple Dice Roller app.                                                                   |
+
 
 ![Nikhil's GitHub stats](https://github-readme-stats.vercel.app/api?username=nikkhilpareek)
 ![Nikhil's LeetCode Stats](https://leetcard.jacoblin.cool/Nikkhil-Pareek?theme=dark&font=Archivo)
