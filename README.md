@@ -3,11 +3,18 @@
 
 <div style="display: flex; justify-content: center;">
     <p align="center">
-    <a href="https://www.linkedin.com/in/nikkhil-pareek/">
-        <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge">
-    </a>
+        <a href="https://www.linkedin.com/in/nikkhil-pareek/">
+            <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge">
+        </a>
+        <a href="https://www.instagram.com/nikkhil.pareek/" target="_blank">
+            <img src="https://img.shields.io/badge/instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge">
+        </a>
+        <a href="mailto:nikhilpareekpandit@gmail.com">
+            <img src="https://img.shields.io/badge/email-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Badge">
+        </a>
     </p>
 </div>
+
 
 <h1>👨‍💻 About Me</h1>
 I am an engineering student currently learning mobile app development. I am pursuing my undergraduate computer science degree from the J.K. Lakshmipat University, Jaipur.
