@@ -49,6 +49,7 @@ I am an engineering student currently learning mobile app development. I am purs
 | ToDo App using Flutter              | [GitHub](https://github.com/nikkhilpareek/to-do-flutter-basics/)                    | [To-Do App](https://nikkhilpareek.github.io/to-do-flutter-basics/)         | A simple Mobile App to add your daily tasks.                                                 |
 | Decimal to Binary Converter         | [GitHub](https://github.com/nikkhilpareek/Decimal-to-Binary-Converter)         | [Decimal to Binary App](https://nikkhilpareek.github.io/Decimal-to-Binary-Converter/)          | A simple app that converts decimal numbers into binary numbers.                             |
 | Dice Roller using Flutter           | [GitHub](https://github.com/nikkhilpareek/Flutter-Dice-Roller)                 | [Dice Roller](https://nikkhilpareek.github.io/Flutter-Dice-Roller/)         | A simple Dice Roller app.                                                                   |
+| BMI Calculator using Flutter           | [GitHub](https://github.com/nikkhilpareek/BMI-Flutter)                 | [BMI Calculator](https://nikkhilpareek.github.io/BMI-Flutter/)         | A Flutter based BMI Calculator App.                                                                   |
 
 
 ![Nikhil's GitHub stats](https://github-readme-stats.vercel.app/api?username=nikkhilpareek)
