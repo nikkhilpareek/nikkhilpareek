@@ -1,44 +1,65 @@
 <h1 align="center">Nikhil Pareek</h1>
-<h4 align="center"><i>"A CSE Student who is learning to make app."</i></h4>
+<h4 align="center"><i>"Computer Science undergrad passionate about building clean and functional mobile apps."</i></h4>
 
-<div style="display: flex; justify-content: center;">
-    <p align="center">
-        <a href="https://www.linkedin.com/in/nikkhil-pareek/">
-            <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge">
-        </a>
-        <a href="https://www.instagram.com/nikkhil.pareek/" target="_blank">
-            <img src="https://img.shields.io/badge/instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge">
-        </a>
-        <a href="mailto:nikhilpareekpandit@gmail.com">
-            <img src="https://img.shields.io/badge/email-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Badge">
-        </a>
-    </p>
-</div>
+<p align="center">
+    <a href="https://www.linkedin.com/in/nikkhil-pareek/" target="_blank">
+        <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+    </a>
+    <a href="https://www.instagram.com/nikkhil.pareek/" target="_blank">
+        <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
+    </a>
+    <a href="mailto:nikhilpareekpandit@gmail.com">
+        <img src="https://img.shields.io/badge/Email-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+    </a>
+    <a href="https://nikkhilpareek.github.io/folio/" target="_blank">
+        <img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=web&logoColor=white" alt="Portfolio">
+    </a>
+    <a href="https://github.com/nikkhilpareek" target="_blank">
+        <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+    </a>
+</p>
 
+---
 
-<h1>👨‍💻 About Me</h1>
-I am an engineering student currently learning mobile app development. I am pursuing my undergraduate computer science degree from the J.K. Lakshmipat University, Jaipur.
+## 👨‍💻 About Me
 
-</br>I know a bit or more about the following:
-- ✅ Mobile App Developement: Flutter
-- ✅ Programming Languages: C++, Dart, Kotlin
-- ✅ Version Control: Git, Github
-- ✅ Languages: English, Hindi, Punjabi
+I’m a Computer Science undergraduate at J.K. Lakshmipat University, Jaipur.  
+Currently focused on learning full-stack mobile app development, building real-world projects using Flutter, Firebase, and modern APIs.
 
-<h1>👨‍💼 Experience</h1>
+## 💻 Tech Stack
 
-<h3>Aunwesha Knowledge Technologies Pvt. Ltd., Kolkata (Intern)</h3>
-<h4 align="right">May 2024 - August 2024</h3>
+### 🚀 Mobile App Development  
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 
-- **Development:** Developed a Java-based chart generation webpage with Vega-Lite integration.
-- **Data Visualization:** Analyzed datasets and created dashboards using Tableau
-- **Dashboard Development:** Built dashboards for multiple Kaggle datasets, showcasing insights.
+### 🧠 Programming Languages  
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Solidity](https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white)
 
-<h3>J.K. Lakshmipat University, Jaipur (Teaching Assistant)</h3>
-<h4 align="right">May 2024 - August 2024</h3>
+### ⚙️ Backend & APIs  
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![REST API](https://img.shields.io/badge/REST_API-02569B?style=for-the-badge&logo=api&logoColor=white)
 
-- Assisted Professor in Teaching Python.
-- Organised Classes for Python Developement and Data Analysis.
+### 💾 Databases  
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
+
+### 🛠 Tools & Platforms  
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+
+### 🌐 Languages  
+![English](https://img.shields.io/badge/English-Fluent-success?style=for-the-badge)
+![Hindi](https://img.shields.io/badge/Hindi-Native-orange?style=for-the-badge)
+![Punjabi](https://img.shields.io/badge/Punjabi-Native-orange?style=for-the-badge)
 
 
 <h1>🎓 Academics</h1>
@@ -46,17 +67,7 @@ I am an engineering student currently learning mobile app development. I am purs
 | Institution | Degree | Year | CGPA/Percentage |
 |-------------|--------|------|-----------------|
 | J.K. Lakshmipat University | B.Tech, Computer Science and Engineering | 2022–2026 | 8.2 CGPA |
-| R.V.N. Sr. Secondary School | Class 12th | -2021 | 97.8% |
-
-<h1>🚀 Personal Projects</h1>
-
-| Project Name                         | GitHub Repo                                                                 | Live Demo | Description                                                                                  |
-|-------------------------------------|----------------------------------------------------------------------------------|-----------|----------------------------------------------------------------------------------------------|
-| Weather Forecast App using Flutter  | [GitHub](https://github.com/nikkhilpareek/Weather-App-in-Fluter)               | [Weather App](https://nikkhilpareek.github.io/Weather-App-in-Fluter/)         | A minimal Weather App with forecast of the day, pressure, wind speed and humidity. Current City selected is Jaipur, Rajasthan          |
-| ToDo App using Flutter              | [GitHub](https://github.com/nikkhilpareek/to-do-flutter-basics/)                    | [To-Do App](https://nikkhilpareek.github.io/to-do-flutter-basics/)         | A simple Mobile App to add your daily tasks.                                                 |
-| Decimal to Binary Converter         | [GitHub](https://github.com/nikkhilpareek/Decimal-to-Binary-Converter)         | [Decimal to Binary App](https://nikkhilpareek.github.io/Decimal-to-Binary-Converter/)          | A simple app that converts decimal numbers into binary numbers.                             |
-| Dice Roller using Flutter           | [GitHub](https://github.com/nikkhilpareek/Flutter-Dice-Roller)                 | [Dice Roller](https://nikkhilpareek.github.io/Flutter-Dice-Roller/)         | A simple Dice Roller app.                                                                   |
-| BMI Calculator using Flutter           | [GitHub](https://github.com/nikkhilpareek/BMI-Flutter)                 | [BMI Calculator](https://nikkhilpareek.github.io/BMI-Flutter/)         | A Flutter based BMI Calculator App.                                                                   |
+| R.V.N. Sr. Secondary School | Class 12th | 2021 | 97.8% |
 
 
 ![Nikhil's GitHub stats](https://github-readme-stats.vercel.app/api?username=nikkhilpareek)
